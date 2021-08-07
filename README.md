@@ -39,7 +39,7 @@ Decision Tree : n_estimators=100
 | KNN | 0.9199 | 0.1112 |
 | Decision Tree | 0.9211 | 0.0483 |
 | Random Forest | 0.9537 | 0.0443 |
-| **XGBoost** | **0.9584 | **0.0656** |
+| **XGBoost** | **0.9584** | **0.0656** |
 | MLP | 0.9404 | 0.1045 |
 
 Best results were obtained using following :   
