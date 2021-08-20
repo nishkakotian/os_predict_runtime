@@ -32,7 +32,7 @@ XGBoost : max-depth = 15
 MLP : hidden layer size = (32,32,32)  
 Decision Tree : n_estimators=100  
 
-2. Considering all 16 attirbutes (historical + non-historical attributes)
+2. Considering all 16 attributes (historical + non-historical attributes)
 
 | Model | CC | RAE |
 | ----------- | ----------- | ----------- |
@@ -53,7 +53,7 @@ From   the   results,   it   can   be   observed   that   XGBOOST performs   bet
 
 
 ## Acknowledgement
-Thanks to   the   AuverGrid   team   andthe   owners   of   the   AuverGrid   system   for   providing  the   traces.  
+Thanks to   the   AuverGrid   team   and the   owners   of   the   AuverGrid   system   for   providing  the   traces.  
 Source : http://gwa.ewi.tudelft.nl/datasets/gwa-t-4-auvergrid
 
 
